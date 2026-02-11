@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Control & Dynamical Systems, California Institute of Technology, 2023-Present
+* B.S. in Mechanical Engineering, Minor in Mathematics, UC Berkeley, 2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AMBER Lab
+  * Caltech
+  * PhD student working on theory and applications of nonlinear control.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Hybrid Robotics Lab
+  * UC Berkeley
+  * Undergraduate research assistant working on vision-based quadrotor control.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Teaching experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Winter 2025: CDS 131, Linear System Theory (Lecturer & Head TA)
+  * Caltech
+  * Designed and taught 16 lectures of the linear system theory course at Caltech, one of the core PhD courses.
+  * Wrote a course textbook and developed assignments and online lectures.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spring 2023: EECS C106B/206B, Robotic Manipulation & Interaction (Head Content TA)
+  * UC Berkeley
+  * Gave weekly discussion sections on topics such as nonlinear control, nonholonomic planning, and optimal control.
+  * Wrote undergraduate and masters-level course notes and bi-weekly course assignments. 
+  * Developed software and hardware labs on implementing control barrier functions for multi-agent systems.
+
+* Fall 2022: EECS C106A/206A, Introduction to Robotics (Content TA)
+  * UC Berkeley
+  * Gave weekly discussion sections on topics such as transformation groups, forward & inverse kinematics, computer vision, and control.
+  * Wrote undergraduate and masters-level course notes and homework & exam problems.
+
+* Fall 2021: ME 100, Electronics for the Internet of Things (TA) 
+  * UC Berkeley
+  * Gave weekly discussion sections on topics such as circuit analysis, amplifiers, and digital logic
+  * Taught two weekly lab sessions on fundamentals of circuit design, microcrontrollers, and embedded programming.
+  * Wrote comprehensive course notes on basic electronics.

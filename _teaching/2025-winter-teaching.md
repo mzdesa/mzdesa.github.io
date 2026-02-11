@@ -14,5 +14,6 @@ I also developed weekly course assignments reinforcing the theory we covered in 
 
 I was fortunate to receive the Caltech graduate Excellence in Teaching award for my work on the course.
 
-[Course Website][https://controldynsys.github.io/131-wi25site/]
-[Recorded Lectures][https://www.youtube.com/playlist?list=PLU2v_5UVjn7d6-pFEjqvXhI0fE83DfncU]
+[Course Website](https://controldynsys.github.io/131-wi25site/)
+
+[Recorded Lectures](https://www.youtube.com/playlist?list=PLU2v_5UVjn7d6-pFEjqvXhI0fE83DfncU)
